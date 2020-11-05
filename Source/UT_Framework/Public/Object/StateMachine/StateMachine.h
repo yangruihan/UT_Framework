@@ -201,6 +201,7 @@ protected:
 public:
 
 	/**
+	 *
 	* Start state machine
 	*/
 	UFUNCTION(Category="Umbra Framework | State Machine", BlueprintCallable)

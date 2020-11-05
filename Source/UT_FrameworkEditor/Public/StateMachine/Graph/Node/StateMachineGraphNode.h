@@ -6,6 +6,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+
+#include "K2Node.h"
 #include "EdGraph/EdGraphNode.h"
 #include "StateMachineGraphNode.generated.h"
 
@@ -15,7 +17,7 @@ class UStateMachineState_Default;
  *
  */
 UCLASS()
-class UT_FRAMEWORKEDITOR_API UStateMachineGraphNode : public UEdGraphNode
+class UT_FRAMEWORKEDITOR_API UStateMachineGraphNode : public UK2Node
 {
 	GENERATED_UCLASS_BODY()
 
