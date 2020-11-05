@@ -5,9 +5,9 @@
 
 #include "MovieSceneFlipbookAnimationSection.h"
 #include "Evaluation/MovieSceneFlipbookAnimationTemplate.h"
-#include "MessageLog.h"
+#include "Logging/MessageLog.h"
 #include "MovieScene.h"
-#include "SequencerObjectVersion.h"
+#include "UObject/SequencerObjectVersion.h"
 
 #define LOCTEXT_NAMESPACE "MovieSceneFlipbookAnimationSection"
 

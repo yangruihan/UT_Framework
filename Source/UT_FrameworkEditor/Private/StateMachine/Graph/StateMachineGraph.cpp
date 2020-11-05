@@ -13,7 +13,7 @@
 #include "StateMachineBlueprint.h"
 #include "StateMachineUtilities.h"
 #include "StateMachine.h"
-#include "Package.h"
+#include "CoreUObject.h"
 #include "EdGraph/EdGraphPin.h"
 
 void UStateMachineGraph::Init(UStateMachineBlueprint* InStateMachineBlueprint)

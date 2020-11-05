@@ -8,7 +8,7 @@
 #include "GDC_StateMachine.h"
 #include "StateMachine.h"
 #include "DebugRenderSceneProxy.h"
-#include "UObjectIterator.h"
+#include "CoreUObject.h"
 
 FGDC_StateMachine::FGDC_StateMachine()
 {

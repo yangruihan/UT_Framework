@@ -7,7 +7,6 @@
 #include "UT_FrameworkEditor.h"
 #include "Engine/Blueprint.h"
 #include "StateMachineBlueprint.h"
-#include "MessageDialog.h"
 
 #define LOCTEXT_NAMESPACE "AssetTypeActions"
 

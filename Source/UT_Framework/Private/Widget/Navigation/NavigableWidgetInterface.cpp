@@ -7,7 +7,7 @@
 #include "NavigableWidget.h"
 #include "NavigableWidgetInterface.h"
 #include "Components/InputComponent.h"
-#include "UObjectGlobals.h"
+#include "UObject/UObjectGlobals.h"
 
 void INavigableWidgetInterface::Initialize()
 {

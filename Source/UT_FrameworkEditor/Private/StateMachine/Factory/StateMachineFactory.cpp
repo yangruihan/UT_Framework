@@ -8,7 +8,7 @@
 #include "StateMachineBlueprintGeneratedClass.h"
 #include "StateMachine.h"
 #include "Engine/Blueprint.h"
-#include "KismetEditorUtilities.h"
+#include "Kismet2/KismetEditorUtilities.h"
 
 UStateMachineFactory::UStateMachineFactory(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)

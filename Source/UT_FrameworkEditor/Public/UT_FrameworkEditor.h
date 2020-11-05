@@ -6,9 +6,9 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "ModuleManager.h"
 #include "Toolkits/AssetEditorToolkit.h"
 #include "KismetCompilerModule.h"
+#include "Modules/ModuleManager.h"
 
 class UStateMachineBlueprint;
 class FStateMachineGraphFactory;

@@ -12,8 +12,8 @@
 #include "EdGraph/EdGraphPin.h"
 #include "EdGraphSchema_K2.h"
 #include "FrameworkGenerics.h"
-#include "BlueprintEditorUtils.h"
-#include "KismetEditorUtilities.h"
+#include "Kismet2/BlueprintEditorUtils.h"
+#include "Kismet2/KismetEditorUtilities.h"
 
 #define LOCTEXT_NAMESPACE "StateMachineGraphSchema"
 

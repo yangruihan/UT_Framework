@@ -7,8 +7,7 @@
 
 #include "CoreMinimal.h"
 #include "UObject/NoExportTypes.h"
-#include "Package.h"
-#include "UObjectGlobals.h"
+#include "CoreUObject.h"
 #include "LoadSystem.generated.h"
 
 DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FDelegateLoadSystem, ULoadSystem*, LoadSystem);

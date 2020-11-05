@@ -9,7 +9,7 @@
 #include "Widgets/Input/SButton.h"
 #include "Widgets/Text/STextBlock.h"
 #include "Components/ButtonSlot.h"
-#include "ConstructorHelpers.h"
+#include "UObject/ConstructorHelpers.h"
 #include "Engine/Font.h"
 
 #define LOCTEXT_NAMESPACE "UmbraFramework"

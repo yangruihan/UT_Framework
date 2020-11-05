@@ -5,9 +5,9 @@
 
 #include "MovieSceneFlipbookAnimationTemplate.h"
 #include "Compilation/MovieSceneCompilerRules.h"
-#include "MovieSceneEvaluation.h"
+#include "Evaluation/MovieSceneEvaluation.h"
 #include "IMovieScenePlayer.h"
-#include "ObjectKey.h"
+#include "UObject/ObjectKey.h"
 #include "PaperFlipbookComponent.h"
 #include "PaperFlipbook.h"
 

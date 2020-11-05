@@ -7,7 +7,7 @@
 #include "NavigableWidget.h"
 #include "NavigableVerticalBox.h"
 #include "NavigableWidgetInterface.h"
-#include "UObjectIterator.h"
+#include "UObject/UObjectIterator.h"
 
 void UNavigableWidgetLibrary::SwitchNavigableContainer(TScriptInterface<INavigableWidgetInterface> Container, bool PreserveForCancel /*= false*/)
 {

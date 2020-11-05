@@ -11,7 +11,6 @@
 #include "K2Node_CustomEvent.h"
 #include "K2Node_FunctionEntry.h"
 #include "K2Node_FunctionResult.h"
-#include "BlueprintEditorUtils.h"
 #include "StateMachineGraph.h"
 #include "StateMachineGraphNode.h"
 #include "StateMachineGraphNode_Entry.h"
@@ -21,6 +20,7 @@
 #include "StateMachineTransition_Default.h"
 #include "StateMachineBlueprint.h"
 #include "EditorUtilities.h"
+#include "Kismet2/BlueprintEditorUtils.h"
 
 class UT_FRAMEWORKEDITOR_API FStateMachineUtilities : public FEditorUtilities
 {

@@ -6,7 +6,8 @@
 #include "StateMachineBlueprintCompiler.h"
 #include "StateMachineBlueprintGeneratedClass.h"
 #include "StateMachineBlueprint.h"
-#include "KismetReinstanceUtilities.h"
+#include "Kismet2/KismetEditorUtilities.h"
+#include "Kismet2/KismetReinstanceUtilities.h"
 
 FStateMachineBlueprintCompiler::FStateMachineBlueprintCompiler(UStateMachineBlueprint* SourceSketch, FCompilerResultsLog& InMessageLog, const FKismetCompilerOptions& InCompilerOptions)
 	: Super(SourceSketch, InMessageLog, InCompilerOptions)
